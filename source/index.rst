@@ -1,21 +1,31 @@
-.. Plane Game Engine Documentation documentation master file, created by
-   sphinx-quickstart on Sat Jan 25 16:32:47 2025.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+Plane Game Engine's Documentation
+=================================
 
-Welcome to Plane Game Engine's documentation!
-===========================================================
+Welcome To The Plane Game Engine's Documentation!
+-------------------------------------------------
 
-Test paragraph
-""""""""""""""
+Hello and welcome to the Plane Game Engine's Documentation. In these pages you
+will find information about this engine, its purpose and limitations.
 
-:ref:`test-label`
+Introduction
+------------
+
+The main goal of this engine is providing easy to create and distrubute
+top-down shooters.
+
+
+Guides
+------
+
+These sections cover various topics in using Plane Game Engine for various
+use-cases. If you are new to Plane Game Engine, you can begin with Get started.
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
-   sub/test.rst
+   ./priorities
+
 
 Indices and tables
 ==================
