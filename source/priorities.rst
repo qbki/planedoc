@@ -66,10 +66,3 @@ Priorities of the project and informal roadmap
 #. i18n through text files (All text constants should be in JSON)
 #. Artificial intelligence for allies and enemies (especially for crowd
    simulation)
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`

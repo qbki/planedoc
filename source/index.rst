@@ -25,11 +25,3 @@ use-cases. If you are new to Plane Game Engine, you can begin with Get started.
    :caption: Contents:
 
    ./priorities
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
