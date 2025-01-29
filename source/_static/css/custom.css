@@ -1,0 +1,16 @@
+.epigraph {
+  text-align: end;
+
+  & p:first-child {
+    margin-bottom: 0;
+  }
+
+  & .attribution {
+    font-style: italic;
+    margin-top: 0;
+
+    &:first-letter {
+      margin-right: 0.3em;
+    }
+  }
+}

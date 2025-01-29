@@ -1,14 +1,18 @@
 Priorities
 ==========
 
-   | If the plans aren't as grand as Napoleon's, then why bother?
-   | *— Semikhatov Aleksei Mikhailovich*
+.. epigraph::
+
+   If the plans aren't as grand as Napoleon's, then why bother?
+
+   -- Semikhatov Aleksei Mikhailovich
 
 The project's focus
-------------------
+-------------------
 
 * Focus on single player experience
 * Focus on crowd simulation
+* Tooling must depend on :term:`plane's data structures`
 * Describe pipeline
    * How to prepare assets (3D models, sounds, etc.)
    * How to configure assets (combine assets into game entities)
