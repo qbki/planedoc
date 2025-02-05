@@ -1,6 +1,7 @@
 run:
 	@sphinx-autobuild ./source ./build
-.PHONY: install-tools
+.PHONY: run
 
 clean:
 	@rm -rf ./build
+.PHONY: clean
