@@ -72,11 +72,10 @@ QPlane_ and `Plane Game Engine`_ are separated projects, they bound together by
 :term:`plane's data structures`. Hence, any tool can be replaced by an editor
 or an engine of your choice.
 
-Levels generation
------------------
+File structure and data structures
+----------------------------------
 
-The structure of *\*.level.json* files are simple enough. So, it will be easy
-to generate levels by writing code using scripting languages or exporting
-levels from some other tools.
+File structure and related data structures described in the separate
+repository: `Data structures`_.
 
 .. include:: ./links.inc.rst
