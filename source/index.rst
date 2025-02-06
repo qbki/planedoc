@@ -21,4 +21,5 @@ use-cases. If you are new to Plane Game Engine, you can begin with
 
    ./introduction
    ./priorities
+   ./qplane
    ./glossary
