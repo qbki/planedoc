@@ -7,6 +7,29 @@ QPlane
 Getting started
 ---------------
 
+The main window
+^^^^^^^^^^^^^^^
+
+.. figure:: ./screenshots/qplane_parts.png
+   :name: qplane_parts
+   :width: 701
+   :alt: The main window
+
+   The main window
+
+On :numref:`qplane_parts` depicted three main parts of the level editor:
+
+* Menu: The starting point for navigation, offering options like open assets,
+  open a level, etc.
+* Roster: Displays a list of actors, lights, models and other entities.
+* 3D View: A space for visualizing 3D objects (models, actors, texts, etc.).
+
+
+Pipeline
+^^^^^^^^
+
+Below you will see the expected pipeline for creating assets and levels.
+
 #. Run QPlane executable.
 #. Select an assets directory through menu *File → Open assets...*
 #. Add assets through assets roster on the right part of the application
